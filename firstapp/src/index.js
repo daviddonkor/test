@@ -21,6 +21,7 @@ const lsd=(
     <h1>Hello {5+7} this is Siaw Again!!!</h1>
     <p>This is a new story</p>
     <strong>Let us not discuss this </strong>
+    <strong>This is a new thing </strong>
 </div>
 
 );
